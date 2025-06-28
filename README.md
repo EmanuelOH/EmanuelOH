@@ -9,26 +9,20 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@TuCanal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/TuUsuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
   <a href="https://discord.gg/TuServidor" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:osorioemanuel0520@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+  <a href="https://www.linkedin.com/in/emanuel-osorio-9063a7297" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
   </a>
 </div>
