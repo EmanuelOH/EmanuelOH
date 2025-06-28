@@ -18,12 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelOH&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
-<h2 align="left">I code with</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelOH&layout=compact&langs_count=12&theme=dracula&hide_border=false" alt="Most used languages" />
-</div>
-
 <div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
 </div>
