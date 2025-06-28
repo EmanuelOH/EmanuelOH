@@ -8,12 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelOH&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
 <div align="left">
   <a href="mailto:tuemail@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
