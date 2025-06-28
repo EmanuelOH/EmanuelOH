@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! Mi nombre es Emanuel y soy un Desarrollador de Software</h2>
+<h2 align="left">Hola 👋! Mi nombre es Emanuel y soy un Desarrollador de Software</h2>
+
+<h2>Sobre mí 😃</h2>
+<p align="left">
+💻 Soy un <strong>desarrollador de software full stack</strong> en formación continua, apasionado por crear soluciones que funcionen, escalen y se vean bien.  
+<br><br>
+🚀 Me encanta aprender nuevas tecnologías y adaptarme a cualquier reto.
+<br><br>
+🎯 Me motiva mejorar cada día como profesional y como persona.
+<br><br>
+🎮 Tengo una visión amplia del desarrollo gracias a mi interés por el mundo de los <strong>videojuegos</strong> y su impacto en la tecnología actual.  
+</p>
 
 ###
 
@@ -7,7 +18,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EmanuelOH&layout=compact&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+
+<h2 align="left">I code with</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelOH&layout=compact&langs_count=12&theme=dracula&hide_border=false" alt="Most used languages" />
+</div>
 
 <div align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" alt="coding gif" />
