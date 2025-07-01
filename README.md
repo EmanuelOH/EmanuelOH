@@ -2,7 +2,7 @@
 
 <h2>Sobre mí 😃</h2>
 <p align="left">
-💻 Soy un <strong>desarrollador de software full stack</strong> en formación continua, apasionado por crear soluciones que funcionen, escalen y se vean bien.  
+💻 Soy un <strong>desarrollador de software full stack</strong> en un aprendizaje continuo, apasionado por crear soluciones que funcionen, escalen y se vean bien.  
 <br><br>
 🚀 Me encanta aprender nuevas tecnologías y adaptarme a cualquier reto.
 <br><br>
